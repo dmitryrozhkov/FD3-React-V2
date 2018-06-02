@@ -2,7 +2,8 @@
 {
   border: double gray 3px;
   padding: 3px 7px;
-  background-color: #F0F0F0;
+  /*background-color: #F0F0F0;*/
+  background: red;
 }
 
 .MyComponentText
